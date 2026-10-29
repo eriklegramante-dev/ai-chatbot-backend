@@ -125,7 +125,7 @@ chat-bot-backend/
 
 ```bash
 git clone [https://github.com/eriklegramante-dev/ai-chatbot-backend.git](https://github.com/eriklegramante-dev/ai-chatbot-backend.git)
-cd synth-math-backend
+cd ai-chatbot-backend 
 
 cp .env.example .env
 # Edit .env with your API credentials
@@ -137,7 +137,7 @@ docker compose up --build
 
 ```bash
 git clone [https://github.com/eriklegramante-dev/ai-chatbot-backend.git](https://github.com/eriklegramante-dev/ai-chatbot-backend.git)
-cd synth-math-backend
+cd ai-chatbot-backend
 
 python3 -m venv .venv
 source .venv/bin/activate
